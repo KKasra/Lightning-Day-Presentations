@@ -1,4 +1,4 @@
-Collaborators: [Kasra Khoshjoo](kasrakhoshjoo@gmail.com), [Reza Pishkoo](pishkoo.reza2001@gmail.com)
+Collaborators: [Kasra Khoshjoo](mailto:kasrakhoshjoo@gmail.com), [Reza Pishkoo](mailto:pishkoo.reza2001@gmail.com)
 # Profit-Maximization-Lightning-Networks
 
 This repository contains summaries and presentations of the project "Profit Maximization on Lightning Network", in which we investigate strategies for maximizing revenue from transaction fees.
