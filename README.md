@@ -21,7 +21,7 @@ proven to be arbitrarily far from optimal.[^fn3] We have proved that we can redu
 Firstly, the case in which a parameter vector $\mu$ determines the likelihood of transactions taking place and each pair $(u,v)$ is expected
 to pay us $\mu_u\mu_v$ as transaction fee given that our node lies in their shortest path. Secondly, we proved that
 if channel capacities determine the maximum possible amount transferred between nodes and this determines the importance of each pair in
-calculating our "Betweenness", we can reduce this problem to a normal MBI. Formal Theorems regarding these results are stated [here](theorems.pdf).
+calculating our "Betweenness", we can reduce this problem to a normal MBI. Formal theorems regarding these results are stated [here](theorems.pdf).
 
 ### Spectral Bandits
 In Spectral Bandit problems, arms that could be chosen are nodes of a given graph, and the reward for two nodes is guaranteed to be 
